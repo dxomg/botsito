@@ -1,0 +1,4 @@
+config.jsonc
+sentinel.db
+logs/
+__pycache__/
